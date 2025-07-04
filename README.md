@@ -37,6 +37,8 @@ This project uses LSTM-based deep learning to forecast critical solar weather va
 - **Sai Sarat Chandra**  
 *Data Scientist | Solar Weather Modeling | Time Series & Deep Learning Enthusiast*
 
+*Project topics: data-science, deep-learning, lstm, time-series, solar-weather, nasa*
+
 ## Project Focus:  
 - Applied Data Science for Space Weather Forecasting  
 - Real-time prediction of solar activity drivers using LSTM  
